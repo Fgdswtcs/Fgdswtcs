@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fgdswtcs 
 - 👀 I’m interested in learning the many aspects of cyber and network security. Any advice welcome.
-- 🌱 I’m currently learning cyber security tools and programs.
-- 💞️ I’m looking to collaborate on ...Any modern techniques of breaching a network(legally).
+-  I’m currently learning cyber security tools and programs.
+-  I’m looking to collaborate on ...Any modern techniques of breaching a network(legally).
 - 📫 How to reach me I can be reached at g84765031@gmail.com
 
 <!---
